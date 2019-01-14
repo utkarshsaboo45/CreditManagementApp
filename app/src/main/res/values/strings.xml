@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Credit Management</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="credits">C</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a user</string>
+    <string name="add_user">Add User</string>
+    <string name="hint_user_name">Name</string>
+    <string name="hint_user_email">Email</string>
+    <string name="hint_user_credits">Credits</string>
+    <string name="user_saved">User Saved!</string>
+    <string name="user_not_entered">User Not Entered!</string>
+    <string name="editor_update_user_failed">Update Failed!</string>
+    <string name="editor_update_user_successful">Update successful!</string>
+    <string name="editor_delete_user_failed">Delete Failed!</string>
+    <string name="editor_delete_user_successful">Delete successful!</string>
+    <string name="delete_all_users_dialog_msg">Delete all the data?</string>
+    <string name="delete_user_dialog_msg">Delete this user\'s data?</string>
+    <string name="delete">Delete</string>
+    <string name="no_delete">Don\'t Delete</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Users</string>
+    <string name="editor_activity_title_new_user">Add a User</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="empty_transactions_list_title">No transactions to show</string>
+    <string name="empty_transactions_list_subtitle">Get started by doing a transaction</string>
+</resources>
